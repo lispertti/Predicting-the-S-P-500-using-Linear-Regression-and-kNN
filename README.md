@@ -45,14 +45,14 @@
 
 #Table 1. Errors for linear regression
 
-#          Mean squared error    R2 Score 
+###          Mean squared error    R2 Score 
 #---------- -------------------- ---------- 
 #Training    217.422               0.999541 
 #Validation  198.977               0.999574 
 #Test         181.682              0.999604
 
 #Table 2. Errors for k Nearest Neighbour 
-#            Mean squared error   R2 Score
+###          Mean squared error   R2 Score
 #---------- -------------------- ---------- 
 #Training     206.869              0.999563 
 #Validation   463.925              0.999006
